@@ -1,0 +1,133 @@
+.places h1 {
+  postion: relative;
+  margin-top: 30px;
+  margin-left: 17px;
+  margin-bottom: 0px;
+  font-size: 30px;
+  text-align: left;
+}
+
+article {
+  position: relative;
+  width: 390px;
+  padding: 20px;
+  margin: 20px;
+  border: #FF5A5F 1px solid;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+article h2{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.places {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.price_by_night {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #FF5A5F;
+  border: #FF5A5F 4px solid;
+  border-radius: 50%;
+  min-width: 60px;
+  height: 60px;
+  font-size: 30px;
+  text-align: center;
+  line-height: 190%;
+
+}
+
+.information {
+  position: relative;
+  height: 80px;
+  border-top: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.max_guest {
+  width: 100px;
+  display: inline-block;
+}
+
+.max_guest::before {
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 10px;
+  content: url("../images/icon_group.png");
+  margin-left: -8%;
+  margin-top: -0.8%;
+}
+.number_rooms {
+  width: 100px;
+  display: inline-block;
+}
+
+.number_rooms::before {
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 10px;
+  content: url("../images/icon_bed.png");
+  margin-left: -8%;
+  margin-top: -0.8%;
+}
+
+
+.number_bathrooms {
+  width: 100px;
+  display: inline-block;
+}
+
+.number_bathrooms::before {
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 10px;
+  content: url("../images/icon_bath.png");
+  margin-left: -8%;
+  margin-top: -0.8%;
+}
+
+
+.user {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  text-align: left;
+  margin-top: 15px;
+}
+
+.description {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  text-align: left;
+  margin-top: 10px;
+
+}
+
+.data {
+  margin: 0px;
+  padding: 0px;
+  margin-top: 100px;
+  padding-top: 30px;
+
+}
+section.places article div.information div span {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+  width: -55%;
+  margin-top: 11%;
+  margin-left: -10%;
+}
