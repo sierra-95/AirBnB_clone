@@ -1,0 +1,30 @@
+.places h1 {
+  postion: relative;
+  margin-top: 30px;
+  margin-left: 17px;
+  margin-bottom: 0px;
+  font-size: 30px;
+  text-align: left;
+}
+
+article {
+  position: relative;
+  width: 390px;
+  padding: 20px;
+  margin: 20px;
+  border: #FF5A5F 1px solid;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+article h2{
+  font-size: 30px;
+  text-align: center;
+}
+
+.places {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
