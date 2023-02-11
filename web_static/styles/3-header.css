@@ -1,0 +1,12 @@
+header {
+    position: relative;
+    background-color: white;
+    background-image: url("../images/logo2.png");
+    background-repeat: no-repeat;
+    object-fit: none;
+    object-position: 20px center;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px #CCCCCC solid;
+
+}
