@@ -54,4 +54,5 @@ All the code is tested with the unittest module.
 
 Authors
 Michael Machohi - michaelmachohi@gmail.com
-Shawn Kiplagat - shawnkiplagat69@gmail.com
+Franklin Akunne - 
+franklinakunne025@gmail.com
